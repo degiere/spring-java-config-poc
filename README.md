@@ -12,4 +12,5 @@ References
 Running
 =======
 $ mvn test
-$ mvn exec:java -Dexec.mainClass=net.degiere.scheduler.ScheduledMessageProcessorDemo
+$ mvn exec:java -Dexec.mainClass=net.degiere.scheduler.Demo
+
