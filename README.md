@@ -11,6 +11,6 @@ References
 
 Running
 =======
-$ mvn test
-$ mvn exec:java -Dexec.mainClass=net.degiere.scheduler.Demo
+* mvn test
+* mvn exec:java -Dexec.mainClass=net.degiere.scheduler.Demo
 
